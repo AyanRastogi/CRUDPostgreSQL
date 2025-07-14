@@ -1,0 +1,13 @@
+{
+  "mcp": {
+    "servers": {
+      "crud": {
+        "command": "python",
+        "args": [
+          "crud psql.py"
+        ],
+        "transport": "stdio"
+      }
+    }
+  }
+}
